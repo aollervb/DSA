@@ -1,4 +1,4 @@
-package org.example.BTree;
+package org.dsa.datastructures.BTree;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
